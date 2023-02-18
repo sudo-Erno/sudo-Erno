@@ -4,13 +4,13 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-erno&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-erno" /> </p>  
   
-- 🔭 I’m currently working on **A Moodle-based platform for treachers to have virtual classes with students.**  
+- 🔭 I’m currently working on **a Moodle-based platform for treachers to have virtual classes with students.**  
   
-- 🌱 I’m currently learning **Anything....**  
+- 🌱 I’m currently learning **anything....**  
   
 - 📫 How to reach me **ernestosegundo@gmail.com**  
   
-- 📄 Know about my experiences [I have made an intership in an AI-Robotics lab.](I have made an intership in an AI-Robotics lab.)  
+- 📄 Know about my experiences: I have made an intership in an AI-Robotics lab.
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
